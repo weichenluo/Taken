@@ -14,3 +14,5 @@ The part we did:
 - Builds all the maps based on the models in low poly pack
 - The light cycle particle effect surrounding the hostages\
 - The scene switch script that control the switching between different scenes 
+
+cooperated with Donghua Zhang and Yuting Chen
